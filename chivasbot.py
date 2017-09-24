@@ -24,7 +24,7 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage =""" Chivas Bot
+helpMessage =""" Hibiki Bot
 [Id︎]
 [Mid]
 [Me︎]
